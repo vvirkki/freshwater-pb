@@ -1,0 +1,16 @@
+# folders that are filled with outputs
+Data/dis/
+Data/rootmoist/
+output/
+
+# HYDE anthromes (data not given but folder initialised in Data/)
+*AD.asc
+*BC.asc
+
+# system files
+.DS_Store
+*.DS_Store
+.Rhistory
+.Rproj.user
+*.Rproj
+*.Rdata

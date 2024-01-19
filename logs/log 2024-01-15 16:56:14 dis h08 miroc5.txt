@@ -1,0 +1,411 @@
+Mon Jan 15 16:56:14 2024
+opening log...
+Tue Jan 16 02:35:03 2024
+preparing data...
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_January_h08_miroc5.rds
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_February_h08_miroc5.rds
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_March_h08_miroc5.rds
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_April_h08_miroc5.rds
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_May_h08_miroc5.rds
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_June_h08_miroc5.rds
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_July_h08_miroc5.rds
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_August_h08_miroc5.rds
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_September_h08_miroc5.rds
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_October_h08_miroc5.rds
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_November_h08_miroc5.rds
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_December_h08_miroc5.rds
+saved Data/dis/historical/dis_monthly/h08/miroc5/dis_monthly_historical_January_h08_miroc5.rds
+saved Data/dis/historical/dis_monthly/h08/miroc5/dis_monthly_historical_February_h08_miroc5.rds
+saved Data/dis/historical/dis_monthly/h08/miroc5/dis_monthly_historical_March_h08_miroc5.rds
+saved Data/dis/historical/dis_monthly/h08/miroc5/dis_monthly_historical_April_h08_miroc5.rds
+saved Data/dis/historical/dis_monthly/h08/miroc5/dis_monthly_historical_May_h08_miroc5.rds
+saved Data/dis/historical/dis_monthly/h08/miroc5/dis_monthly_historical_June_h08_miroc5.rds
+saved Data/dis/historical/dis_monthly/h08/miroc5/dis_monthly_historical_July_h08_miroc5.rds
+saved Data/dis/historical/dis_monthly/h08/miroc5/dis_monthly_historical_August_h08_miroc5.rds
+saved Data/dis/historical/dis_monthly/h08/miroc5/dis_monthly_historical_September_h08_miroc5.rds
+saved Data/dis/historical/dis_monthly/h08/miroc5/dis_monthly_historical_October_h08_miroc5.rds
+saved Data/dis/historical/dis_monthly/h08/miroc5/dis_monthly_historical_November_h08_miroc5.rds
+saved Data/dis/historical/dis_monthly/h08/miroc5/dis_monthly_historical_December_h08_miroc5.rds
+Tue Jan 16 03:42:32 2024
+no intercalibration requested, saving monthly data to tempdir...
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/dis_monthly_preind_April_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/dis_monthly_preind_August_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/dis_monthly_preind_December_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/dis_monthly_preind_February_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/dis_monthly_preind_January_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/dis_monthly_preind_July_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/dis_monthly_preind_June_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/dis_monthly_preind_March_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/dis_monthly_preind_May_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/dis_monthly_preind_November_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/dis_monthly_preind_October_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/dis_monthly_preind_September_h08_miroc5.rds
+Tue Jan 16 03:42:33 2024
+creating dry and wet local bounds...
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_April_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_August_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_December_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_February_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_January_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_July_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_June_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_March_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_May_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_November_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_October_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_September_h08_miroc5.rds
+Tue Jan 16 03:49:57 2024
+detecting local deviations...
+saving deviations without intercalibration to tempdir...
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/noncorrected_dis_ref_dpts_April_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_April_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_April_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/noncorrected_dis_ref_dpts_August_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_August_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_August_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/noncorrected_dis_ref_dpts_December_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_December_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_December_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/noncorrected_dis_ref_dpts_February_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_February_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_February_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/noncorrected_dis_ref_dpts_January_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_January_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_January_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/noncorrected_dis_ref_dpts_July_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_July_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_July_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/noncorrected_dis_ref_dpts_June_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_June_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_June_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/noncorrected_dis_ref_dpts_March_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_March_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_March_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/noncorrected_dis_ref_dpts_May_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_May_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_May_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/noncorrected_dis_ref_dpts_November_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_November_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_November_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/noncorrected_dis_ref_dpts_October_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_October_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_October_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/noncorrected_dis_ref_dpts_September_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_September_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_September_h08_miroc5.rds
+Tue Jan 16 03:54:54 2024
+performing intercalibration for all data...
+qmap failed in 2 instances, 0 of which are due to warning
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_April_h08_miroc5.rds
+qmap failed in 6 instances, 2 of which are due to warning
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_August_h08_miroc5.rds
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_December_h08_miroc5.rds
+qmap failed in 3 instances, 0 of which are due to warning
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_February_h08_miroc5.rds
+qmap failed in 2 instances, 0 of which are due to warning
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_January_h08_miroc5.rds
+qmap failed in 6 instances, 3 of which are due to warning
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_July_h08_miroc5.rds
+qmap failed in 3 instances, 2 of which are due to warning
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_June_h08_miroc5.rds
+qmap failed in 3 instances, 1 of which are due to warning
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_March_h08_miroc5.rds
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_May_h08_miroc5.rds
+qmap failed in 2 instances, 0 of which are due to warning
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_November_h08_miroc5.rds
+qmap failed in 3 instances, 0 of which are due to warning
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_October_h08_miroc5.rds
+qmap failed in 3 instances, 0 of which are due to warning
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_September_h08_miroc5.rds
+Tue Jan 16 05:52:30 2024
+creating dry and wet local bounds...
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_April_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_August_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_December_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_February_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_January_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_July_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_June_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_March_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_May_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_November_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_October_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_September_h08_miroc5.rds
+Tue Jan 16 05:59:34 2024
+detecting local deviations...
+saving deviations after intercalibration to tempdir...
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/corrected_dis_ref_dpts_April_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_April_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_April_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/corrected_dis_ref_dpts_August_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_August_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_August_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/corrected_dis_ref_dpts_December_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_December_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_December_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/corrected_dis_ref_dpts_February_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_February_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_February_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/corrected_dis_ref_dpts_January_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_January_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_January_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/corrected_dis_ref_dpts_July_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_July_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_July_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/corrected_dis_ref_dpts_June_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_June_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_June_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/corrected_dis_ref_dpts_March_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_March_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_March_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/corrected_dis_ref_dpts_May_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_May_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_May_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/corrected_dis_ref_dpts_November_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_November_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_November_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/corrected_dis_ref_dpts_October_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_October_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_October_h08_miroc5.rds
+saved /var/folders/cv/22x5pw9n7bj24dr5zlzthhxr0000gp/T//RtmpIddZ43/corrected_dis_ref_dpts_September_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_September_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_September_h08_miroc5.rds
+Tue Jan 16 06:04:14 2024
+checking if intercalibration improves fit between periods...
+saving 54668 cells uncorrected...
+saving 12752 cells corrected...
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_April_h08_miroc5.rds
+saving 54610 cells uncorrected...
+saving 12810 cells corrected...
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_August_h08_miroc5.rds
+saving 54120 cells uncorrected...
+saving 13300 cells corrected...
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_December_h08_miroc5.rds
+saving 53936 cells uncorrected...
+saving 13484 cells corrected...
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_February_h08_miroc5.rds
+saving 53121 cells uncorrected...
+saving 14299 cells corrected...
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_January_h08_miroc5.rds
+saving 54706 cells uncorrected...
+saving 12714 cells corrected...
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_July_h08_miroc5.rds
+saving 54970 cells uncorrected...
+saving 12450 cells corrected...
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_June_h08_miroc5.rds
+saving 53751 cells uncorrected...
+saving 13669 cells corrected...
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_March_h08_miroc5.rds
+saving 54965 cells uncorrected...
+saving 12455 cells corrected...
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_May_h08_miroc5.rds
+saving 54887 cells uncorrected...
+saving 12533 cells corrected...
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_November_h08_miroc5.rds
+saving 55274 cells uncorrected...
+saving 12146 cells corrected...
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_October_h08_miroc5.rds
+saving 55061 cells uncorrected...
+saving 12359 cells corrected...
+saved Data/dis/preind/dis_monthly/h08/miroc5/dis_monthly_preind_September_h08_miroc5.rds
+Tue Jan 16 06:07:44 2024
+creating dry and wet local bounds...
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_April_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_August_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_December_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_February_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_January_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_July_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_June_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_March_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_May_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_November_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_October_h08_miroc5.rds
+saved Data/dis/preind/dis_local_bounds/h08/miroc5/dis_local_bounds_preind_September_h08_miroc5.rds
+Tue Jan 16 06:14:41 2024
+detecting local deviations...
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_April_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_April_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_August_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_August_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_December_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_December_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_February_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_February_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_January_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_January_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_July_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_July_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_June_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_June_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_March_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_March_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_May_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_May_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_November_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_November_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_October_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_October_h08_miroc5.rds
+saved Data/dis/preind/dis_departures/h08/miroc5/dis_departures_preind_September_h08_miroc5.rds
+saved Data/dis/historical/dis_departures/h08/miroc5/dis_departures_historical_September_h08_miroc5.rds
+Tue Jan 16 06:17:22 2024
+building ice areas...
+ice built for this period preind already exists...
+ice built for this period historical already exists...
+Tue Jan 16 06:17:23 2024
+computing percentages of land area with local deviations...
+processing areal division global...
+saved Data/dis/preind/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_preind_January_h08_miroc5.rds
+saved Data/dis/preind/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_preind_February_h08_miroc5.rds
+saved Data/dis/preind/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_preind_March_h08_miroc5.rds
+saved Data/dis/preind/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_preind_April_h08_miroc5.rds
+saved Data/dis/preind/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_preind_May_h08_miroc5.rds
+saved Data/dis/preind/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_preind_June_h08_miroc5.rds
+saved Data/dis/preind/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_preind_July_h08_miroc5.rds
+saved Data/dis/preind/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_preind_August_h08_miroc5.rds
+saved Data/dis/preind/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_preind_September_h08_miroc5.rds
+saved Data/dis/preind/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_preind_October_h08_miroc5.rds
+saved Data/dis/preind/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_preind_November_h08_miroc5.rds
+saved Data/dis/preind/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_preind_December_h08_miroc5.rds
+saved Data/dis/historical/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_historical_January_h08_miroc5.rds
+saved Data/dis/historical/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_historical_February_h08_miroc5.rds
+saved Data/dis/historical/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_historical_March_h08_miroc5.rds
+saved Data/dis/historical/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_historical_April_h08_miroc5.rds
+saved Data/dis/historical/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_historical_May_h08_miroc5.rds
+saved Data/dis/historical/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_historical_June_h08_miroc5.rds
+saved Data/dis/historical/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_historical_July_h08_miroc5.rds
+saved Data/dis/historical/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_historical_August_h08_miroc5.rds
+saved Data/dis/historical/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_historical_September_h08_miroc5.rds
+saved Data/dis/historical/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_historical_October_h08_miroc5.rds
+saved Data/dis/historical/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_historical_November_h08_miroc5.rds
+saved Data/dis/historical/dis_global_departure_aggregates/h08/miroc5/dis_global_departure_aggregates_historical_December_h08_miroc5.rds
+Tue Jan 16 06:18:58 2024
+computing the frequency of local deviations...
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_January_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_February_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_March_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_April_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_May_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_June_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_July_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_August_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_September_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_October_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_November_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_December_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1976_2005_January_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1976_2005_February_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1976_2005_March_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1976_2005_April_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1976_2005_May_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1976_2005_June_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1976_2005_July_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1976_2005_August_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1976_2005_September_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1976_2005_October_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1976_2005_November_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1976_2005_December_h08_miroc5.rds
+Tue Jan 16 06:21:59 2024
+computing the frequency of local deviations...
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_January_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_February_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_March_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_April_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_May_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_June_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_July_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_August_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_September_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_October_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_November_h08_miroc5.rds
+saved Data/dis/preind/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_preind_1691_1860_December_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1931_1960_January_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1931_1960_February_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1931_1960_March_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1931_1960_April_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1931_1960_May_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1931_1960_June_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1931_1960_July_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1931_1960_August_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1931_1960_September_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1931_1960_October_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1931_1960_November_h08_miroc5.rds
+saved Data/dis/historical/dis_local_departure_frequency/h08/miroc5/dis_local_departure_frequency_historical_1931_1960_December_h08_miroc5.rds
+Tue Jan 16 06:25:10 2024
+computing percentages of land area with local deviations...
+processing areal division hybas2...
+saved Data/dis/preind/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_preind_January_h08_miroc5.rds
+saved Data/dis/preind/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_preind_February_h08_miroc5.rds
+saved Data/dis/preind/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_preind_March_h08_miroc5.rds
+saved Data/dis/preind/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_preind_April_h08_miroc5.rds
+saved Data/dis/preind/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_preind_May_h08_miroc5.rds
+saved Data/dis/preind/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_preind_June_h08_miroc5.rds
+saved Data/dis/preind/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_preind_July_h08_miroc5.rds
+saved Data/dis/preind/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_preind_August_h08_miroc5.rds
+saved Data/dis/preind/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_preind_September_h08_miroc5.rds
+saved Data/dis/preind/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_preind_October_h08_miroc5.rds
+saved Data/dis/preind/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_preind_November_h08_miroc5.rds
+saved Data/dis/preind/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_preind_December_h08_miroc5.rds
+saved Data/dis/historical/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_historical_January_h08_miroc5.rds
+saved Data/dis/historical/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_historical_February_h08_miroc5.rds
+saved Data/dis/historical/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_historical_March_h08_miroc5.rds
+saved Data/dis/historical/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_historical_April_h08_miroc5.rds
+saved Data/dis/historical/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_historical_May_h08_miroc5.rds
+saved Data/dis/historical/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_historical_June_h08_miroc5.rds
+saved Data/dis/historical/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_historical_July_h08_miroc5.rds
+saved Data/dis/historical/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_historical_August_h08_miroc5.rds
+saved Data/dis/historical/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_historical_September_h08_miroc5.rds
+saved Data/dis/historical/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_historical_October_h08_miroc5.rds
+saved Data/dis/historical/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_historical_November_h08_miroc5.rds
+saved Data/dis/historical/dis_hybas2_departure_aggregates/h08/miroc5/dis_hybas2_departure_aggregates_historical_December_h08_miroc5.rds
+Tue Jan 16 06:44:36 2024
+computing percentages of land area with local deviations...
+processing areal division hybas3...
+data not covering area id 552
+saved Data/dis/preind/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_preind_January_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/preind/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_preind_February_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/preind/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_preind_March_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/preind/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_preind_April_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/preind/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_preind_May_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/preind/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_preind_June_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/preind/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_preind_July_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/preind/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_preind_August_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/preind/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_preind_September_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/preind/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_preind_October_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/preind/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_preind_November_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/preind/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_preind_December_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/historical/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_historical_January_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/historical/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_historical_February_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/historical/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_historical_March_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/historical/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_historical_April_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/historical/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_historical_May_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/historical/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_historical_June_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/historical/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_historical_July_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/historical/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_historical_August_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/historical/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_historical_September_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/historical/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_historical_October_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/historical/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_historical_November_h08_miroc5.rds
+data not covering area id 552
+saved Data/dis/historical/dis_hybas3_departure_aggregates/h08/miroc5/dis_hybas3_departure_aggregates_historical_December_h08_miroc5.rds

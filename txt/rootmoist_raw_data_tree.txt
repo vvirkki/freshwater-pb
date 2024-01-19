@@ -1,0 +1,37 @@
+/Volumes/T7/rootmoist
+├── historical
+│   └── raw
+│       ├── clm50_gfdl-esm2m_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+│       ├── clm50_hadgem2-es_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+│       ├── clm50_ipsl-cm5a-lr_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+│       ├── clm50_miroc5_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+│       ├── lpjml_gfdl-esm2m_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+│       ├── lpjml_hadgem2-es_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+│       ├── lpjml_ipsl-cm5a-lr_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+│       ├── lpjml_miroc5_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+│       ├── mpi-hm_gfdl-esm2m_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+│       ├── mpi-hm_ipsl-cm5a-lr_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+│       ├── mpi-hm_miroc5_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+│       ├── pcr-globwb_gfdl-esm2m_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+│       ├── pcr-globwb_hadgem2-es_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+│       ├── pcr-globwb_ipsl-cm5a-lr_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+│       └── pcr-globwb_miroc5_ewembi_historical_histsoc_co2_rootmoist_global_monthly_1861_2005.nc4
+└── preind
+    └── raw
+        ├── clm50_gfdl-esm2m_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+        ├── clm50_hadgem2-es_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+        ├── clm50_ipsl-cm5a-lr_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+        ├── clm50_miroc5_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+        ├── lpjml_gfdl-esm2m_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+        ├── lpjml_hadgem2-es_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+        ├── lpjml_ipsl-cm5a-lr_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+        ├── lpjml_miroc5_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+        ├── mpi-hm_gfdl-esm2m_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+        ├── mpi-hm_ipsl-cm5a-lr_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+        ├── mpi-hm_miroc5_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+        ├── pcr-globwb_gfdl-esm2m_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+        ├── pcr-globwb_hadgem2-es_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+        ├── pcr-globwb_ipsl-cm5a-lr_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+        └── pcr-globwb_miroc5_ewembi_picontrol_1860soc_co2_rootmoist_global_monthly_1661_1860.nc4
+
+5 directories, 30 files

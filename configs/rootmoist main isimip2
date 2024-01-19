@@ -1,0 +1,27 @@
+variable;rootmoist
+raw_data_root;/Volumes/T7
+grid_label;ISIMIP
+impactmodel;clm50,lpjml,mpi-hm,pcr-globwb
+forcing;gfdl-esm2m,hadgem2-es,ipsl-cm5a-lr,miroc5
+period_begin;1661,1861
+period_end;1860,2005
+period_label;preind,historical
+baseline_period;preind
+intercalibrate;
+intcal_from;historical
+intcal_to;preind
+intcal_period_length;30
+intcal_check_length;50
+qmap_nquantiles;4
+cptmin;10
+cptmax;30
+local_bound_low;0.05
+local_bound_high;0.95
+boundary_baseline;0.5
+boundary_upper_end;0.95
+localfreq_period_begin;1691,1976
+localfreq_period_end;1860,2005
+localfreq_chg_pval;0.05
+localfreq_season;
+areal_division;
+visopts_cfg;rootmoist visopts
