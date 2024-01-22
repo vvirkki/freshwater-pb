@@ -170,7 +170,7 @@ repository.
 * note: a MATSIRO-HadGEM2 file is missing from `dis_raw_data_filelist.txt` (see below)
 
 `_raw_data_tree.txt`: trees of raw data organisation within a directory specified
-by config parapeter `raw_data_root`.
+by config parameter `raw_data_root`.
 
 ### Raw data acquisition
 
