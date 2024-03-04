@@ -7,8 +7,8 @@
 # 
 # Analysis script for publication:
 # 
-# "Global water cycle shifts far beyond pre-industrial conditions - planetary
-# boundary for freshwater change transgressed"
+# "Notable shifts beyond pre-industrial streamflow and soil moisture conditions
+# transgress the planetary boundary for freshwater change"
 #
 # Miina Porkka, Vili Virkki, Lan Wang-Erlandsson, Dieter Gerten, Tom Gleeson,
 # Chinchu Mohan, Ingo Fetzer, Fernando Jaramillo, Arie Staal, Sofie te Wierik,
@@ -17,7 +17,7 @@
 # James S. Famiglietti, Johan Rockström, Matti Kummu
 #
 # Published in Nature Water
-# DOI: TO-ADD
+# https://doi.org/10.1038/s44221-024-00208-7
 # 
 # Data availability:
 # https://doi.org/10.5281/zenodo.10531807

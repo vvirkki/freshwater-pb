@@ -1,6 +1,8 @@
 ## freshwater-pb
 
-### Code repository for: "Streamflow and soil moisture shift far beyond pre-industrial conditions globally – planetary boundary for freshwater change transgressed"
+### Code repository for
+
+### "Notable shifts beyond pre-industrial streamflow and soil moisture conditions transgress the planetary boundary for freshwater change"
 
 Miina Porkka, Vili Virkki, Lan Wang-Erlandsson, Dieter Gerten, Tom Gleeson,
 Chinchu Mohan, Ingo Fetzer, Fernando Jaramillo, Arie Staal, Sofie te Wierik,
@@ -9,7 +11,7 @@ Naota Hanasaki, Yusuke Satoh, Hannes Müller Schmied, Niko Wanders,
 James S. Famiglietti, Johan Rockström, Matti Kummu
 
 **Published in _Nature Water_**  
-**DOI:** <span style="color:red">**ADD LINK WHEN DOI AVAILABLE**</span>.
+https://doi.org/10.1038/s44221-024-00208-7
 
 **Output data available in a Zenodo repository**  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10531807.svg)](https://doi.org/10.5281/zenodo.10531807)
@@ -206,8 +208,7 @@ Git tags.
 #### v1.0.0.
 
 Version used in producing the results shown in the
-<span style="color:red">**ADD LINK WHEN DOI AVAILABLE**</span>.
-[_Nature Water_ manuscript](https://www.nature.com/natwater).
+[_Nature Water_ manuscript](https://doi.org/10.1038/s44221-024-00208-7).
 
 ### License
 
